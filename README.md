@@ -24,7 +24,7 @@ Answers in the notebook were solved by me and reviewed by Udacity instructors.
 <!-- CONTACT -->
 ## Contact
 
-Kareem Ayyad- [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
+Kareem Ayyad - kareem@ayyad.net
 
 Project Link: [https://github.com/kareemayyad/Practical-Statistics](https://github.com/kareemayyad/Practical-Statistics)
 
