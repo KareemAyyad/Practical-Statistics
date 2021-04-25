@@ -1,5 +1,4 @@
-# Data Visualization - Ford GoBike (Bike Shares Dataset)
-
+# A/B Testing Analysis
 [![LinkedIn][linkedin-shield]][linkedin-url]
 <!-- TABLE OF CONTENTS -->
 <details open="open">
@@ -24,7 +23,7 @@ Answers in the notebook were solved by me and reviewed by Udacity instructors.
 <!-- CONTACT -->
 ## Contact
 
-Kareem Ayyad - kareem@ayyad.net
+Kareem Ayyad- [@kareem_ayyad](https://twitter.com/kareem_ayyad) - kareem@ayyad.net
 
 Project Link: [https://github.com/kareemayyad/Practical-Statistics](https://github.com/kareemayyad/Practical-Statistics)
 
